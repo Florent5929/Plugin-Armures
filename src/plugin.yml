@@ -1,0 +1,5 @@
+name: fr_Florent59_Armures
+main: fr.Florent59.Armures.Main
+version: 1.12.2
+description: Permet d'ajouter des effets de potions aux armures, grâce au lore (description).
+author: Florent59
